@@ -1,7 +1,3 @@
-{
-  "presubmit": [
-    {
-      "name": "tinyxml2-tests"
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d94329a3f88bf1e8ef9d7c81c7f52673faa796369aa2300369751be5c533d936
+size 68
